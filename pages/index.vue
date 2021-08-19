@@ -1,5 +1,10 @@
 <template>
-  <Tutorial/>
+<div>
+ <Navbar />
+<Carousel />
+<Cards />
+<Footer />
+</div>
 </template>
 
 <script>
