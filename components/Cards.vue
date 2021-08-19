@@ -1,4 +1,5 @@
 <template>
+<section id="main">
   <main class="container">
           <div class="row justify-content-center">
             <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
@@ -74,4 +75,5 @@
             </div>
           </div>
   </main>
+</section>
   </template>

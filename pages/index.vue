@@ -2,6 +2,7 @@
 <div>
  <Navbar />
 <Carousel />
+<Badge />
 <Cards />
 <Footer />
 </div>
