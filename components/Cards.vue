@@ -34,7 +34,7 @@
                 </div>
               </div> </div>
               <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
-                <img src="~assets/img/cards/alongamento.jpg" class="card-img-top" alt="...">
+                <img src="~assets/img/cards/pilates.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Pilates</h5>
                   <a href="#" class="btn btn btn-warning">Saiba Mais</a>
@@ -54,10 +54,10 @@
                 <img src="~assets/img/yoga2.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Yoga</h5>
-
-                  <a href="#" class="btn btn-warning">Saiba Mais</a>
+                 <a href="#" class="btn btn-warning">Saiba Mais</a>
                 </div>
               </div> </div>
+
               <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
                 <img src="~assets/img/ritmos.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -73,6 +73,14 @@
                 </div>
               </div>
            </div>
+            <p>
+              <div class="col-12 col-med-6 col-lg-4"> <div class="card card-center" style="width: 18rem;">
+                <img src="~assets/img/ginástica/girl5.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Ballet</h5>
+                 <a href="#" class="btn btn-warning">Saiba Mais</a>
+                </div>
+              </div> </div>
          </div>
         <br>
        <br>
