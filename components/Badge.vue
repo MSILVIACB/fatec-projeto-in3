@@ -3,8 +3,9 @@
     <div class="row">
         <div class="col-md-12">
             <div class="title">
-              <hr>  <h2>OUR BEST SERVICES</h2><hr>
-                <p>Dantes remained confused and silent by this explanation of the <br> thoughts which had unconsciously</p>
+              <hr>
+              <h2>Modalidades Dynamic </h2><hr>
+                <p>Programas diferentes e pensados para cada objetivo.<br>Treinos rápidos, intensos, coletivos ou individuais.</p>
             </div>
         </div>
     </div>
@@ -16,7 +17,7 @@
                     <i class="ion-easel"></i>
                 </div>
                 <h4 class="wow fadeInUp" data-wow-delay=".3s">Treino Personalizado</h4>
-                <p class="wow fadeInUp" data-wow-delay=".5s">Lorem ipsum dolor sit amet, consectetur adipisic-<br>ing elit, sed do eiusmod tempor incididunt ut <br> labore et dolore magna aliqua. Ut enim ad minim</p>
+                <p class="wow fadeInUp" data-wow-delay=".5s">Treinos com intervalos que aumentam a<br>frequência cardíaca e melhoram a capacidade cardiorespiratória.<br> Acompanhamento próximo e individualizado.</p>
             </div>
         </div>
         <div class="col-md-4 col-xs-6 col-sm-6">
@@ -25,7 +26,7 @@
                     <i class="ion-paintbucket"></i>
                 </div>
                 <h4 class="wow fadeInUp" data-wow-delay=".3s">Programa de Emagrecimento</h4>
-                <p class="wow fadeInUp" data-wow-delay=".5s">Lorem ipsum dolor sit amet, consectetur adipisic-<br>ing elit, sed do eiusmod tempor incididunt ut <br> labore et dolore magna aliqua. Ut enim ad minim</p>
+                <p class="wow fadeInUp" data-wow-delay=".5s">Ideal para quem deseja diminuição da gordura corporal e melhora do condicionamento<br> físico por meio de atividades que aceleram a queima de gordura.</p>
             </div>
         </div>
         <div class="col-md-4 col-xs-6 col-sm-6">
@@ -34,7 +35,7 @@
                     <i class="ion-paintbrush"></i>
                 </div>
                 <h4 class="wow fadeInUp" data-wow-delay=".3s">Planos de Pagamento Flexíveis</h4>
-                <p class="wow fadeInUp" data-wow-delay=".5s">Lorem ipsum dolor sit amet, consectetur adipisic-<br>ing elit, sed do eiusmod tempor incididunt ut <br> labore et dolore magna aliqua. Ut enim ad minim</p>
+                <p class="wow fadeInUp" data-wow-delay=".5s">Planos exclusivos para Estudantes, Plano Fidelidade e Plano Platinum.<br> Débito mensal no cartão de crédito com permanência mínima de 12 meses.</p>
             </div>
             <br>
             <br>
